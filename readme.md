@@ -4,7 +4,7 @@ Firing demo: https://www.youtube.com/watch?v=dw4PgxCUz9k
 How it works: https://www.youtube.com/watch?v=qHloPtb04QE
 
 
-GIF HERE
+<img src="GHimages/" width="500">
 
 
 BETA 1 FILESET FOR the "HPA Thing"! 
