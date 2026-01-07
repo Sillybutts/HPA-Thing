@@ -4,7 +4,7 @@ Firing demo: https://www.youtube.com/watch?v=dw4PgxCUz9k
 How it works: https://www.youtube.com/watch?v=qHloPtb04QE
 
 
-<img src="GHimages/" width="500">
+<img src="GHimages/HPA_thing_thats_laid_out_like_a_paintball_marker_CROSS_SECTION_GIF_ANIMATION.gif" width="500">
 
 
 BETA 1 FILESET FOR the "HPA Thing"! 
@@ -72,8 +72,10 @@ If you like what I do, please consider supporting me! 
 
 I don't charge for my files, so any donations or merch purchases would be greatly appreciated!
 
+<a href="https://www.patreon.com/sillybutts/"><img alt="Patreon Button" style="border-width:0" src="GHimages/PatreonButton.png" height="50" /></a> 
 Patreon (Monthly donations) https://www.patreon.com/sillybutts
 
+<a href="https://www.buymeacoffee.com/sillybutts/"><img alt="BuyMeACoffee Button" style="border-width:0" src="GHimages/buymeacoffeeButton2.png" height="50" /></a> 
 Buy Me A Coffee (One-time donations) https://www.buymeacoffee.com/sillybutts
 
 Fourthwall (NEW!) My merch shop! Go get some cool stickers and fun shirts! https://sillybutts-shop.fourthwall.com/
