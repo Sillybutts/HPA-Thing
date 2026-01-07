@@ -1,13 +1,15 @@
 ## The HPA Thing!
 
 Firing demo: https://www.youtube.com/watch?v=dw4PgxCUz9k
+
 How it works: https://www.youtube.com/watch?v=qHloPtb04QE
 
 
 <img src="GHimages/HPA_thing_thats_laid_out_like_a_paintball_marker_CROSS_SECTION_GIF_ANIMATION.gif" width="500">
 
 
-BETA 1 FILESET FOR the "HPA Thing"! 
+
+## BETA 1 FILESET FOR the "HPA Thing"! 
 
 Hardware list: https://docs.google.com/spreadsheets/d/17lLCGpWaN8VrMLZ8hM6eC0Pbah_-sVxC1qZsMWaTdZw/edit?gid=795135172#gid=795135172
 
